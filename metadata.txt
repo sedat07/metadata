@@ -1,0 +1,7 @@
+{
+  "name": "sedat07",
+  "website": "https://github.com/sedat07",
+  "description": "sedat07",
+  "logo": "https://r.resimlink.com/biHQuOFA4dg.png",
+  "twitter": "https://twitter.com/sedat_tulek"
+}
